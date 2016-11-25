@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="osgi.enroute.examples.eval.provider.EvalImpl">
+  <implementation class="osgi.enroute.examples.eval.provider.EvalImpl"/>
+  <service>
+    <provide interface="osgi.enroute.examples.eval.api.Eval"/>
+  </service>
+</component>

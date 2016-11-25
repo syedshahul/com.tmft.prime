@@ -1,0 +1,4 @@
+Export-Package: 	osgi.enroute.examples.eval.api
+Private-Package: 	parsii.*
+-sources: 			true
+-runbundles: org.apache.felix.log;version='[1.0.1,1.0.2)'
